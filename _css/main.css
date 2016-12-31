@@ -152,14 +152,6 @@ pre {
 	padding: 1em 2em;
 	color: #F2EFB5;
 	font-size: 1.4em;
-<<<<<<< HEAD
-	white-space: pre-wrap;
- 	white-space: -moz-pre-wrap;
-	white-space: -pre-wrap;
-	white-space: -o-pre-wrap;
-	word-wrap: break-word;
-	overflow: auto;
-=======
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -pre-wrap;
@@ -181,7 +173,6 @@ header {
 header h1 {
  color: rgb(127,64,45);
  padding-top: 1em;
->>>>>>> bugFix
 }
 
 main h2 {
